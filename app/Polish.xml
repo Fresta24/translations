@@ -14,19 +14,19 @@
         <mnuActionJumpToRegistry>Wpis w &amp;rejestrze</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Folder &amp;aplikacji</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Strona &amp;internetowa aplikacji</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
-        <mnuActionBrowseLocation>Przeglądaj położenie...</mnuActionBrowseLocation>
+        <mnuActionOpenWindowsStore>Otwórz w Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Przeglądaj lokalizacje...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Przeglądaj źródło...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Szukaj w Google</mnuActionGoogleFor>
         <mnuView>&amp;Widok</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Aplikacje Desktopowe</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Aplikacje Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Odśwież</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetuj kolumny</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Schemat kolorów</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Dopasuj tryb Windows jasny/ciemny</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Tryb jasny (domyślny)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Tryb ciemny</mnuViewColorSchemeDark>
         <mnuViewLanguage>Język interfejsu</mnuViewLanguage>
         <mnuHelp>Pomo&amp;c</mnuHelp>
         <mnuHelpAbout>&amp;Geek Uninstaller - informacje...</mnuHelpAbout>
@@ -37,8 +37,8 @@
         <columnSize>Rozmiar</columnSize>
         <columnInstallationDate>Data instalacji</columnInstallationDate>
         <staticLoading>Ładowanie, proszę czekać...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>Brak pasujących elementów, naciśnij ESC, aby zresetować</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Wygląda na to, że nie zainstalowane aplikacje Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -66,17 +66,17 @@
         <msgRemoveEntryQuestion>Czy na pewno chcesz usunąć ten element?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>Nie powiodło się usunięcie wpisu w rejestrze dotyczącego tego elementu. \nPrawdopodobnie nie masz uprawnień administratora do wykonania tego zadania.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Dostępna jest nowa wersja %s.</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>Dostępna jest nowa wersja GeekUninstaller! Naciśnij OK, aby odwiedzić naszą stronę internetową i pobrać najnowszą wersję.</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
-        <statusMessage>Ulepsz do wersji PRO</statusMessage>
-        <WhatsCool>Co fajnego w wesji PRO:</WhatsCool>
+        <statusMessage>Uaktualnij do wersji PRO</statusMessage>
+        <WhatsCool>Co dobrego w wesji PRO:</WhatsCool>
         <Feature1>Monitorowanie instalacji w czasie rzeczywistym</Feature1>
         <Feature2>Dokładne i kompletne usuwanie</Feature2>
-        <Feature3>Start-up Manager</Feature3>
+        <Feature3>Menedżer uruchamiania</Feature3>
         <Feature4>Nowoczesny interfejs, pomoc techniczna</Feature4>
         <Feature5>Usuwanie wielu programów na raz</Feature5>
-        <buttonUpgrade>Ulepsz</buttonUpgrade>
+        <buttonUpgrade>Uaktualnij</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
         <htmlFiles>Pliki HTML</htmlFiles>
